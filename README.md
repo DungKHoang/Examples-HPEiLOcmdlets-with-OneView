@@ -1,9 +1,9 @@
-# HPEiLOCmdlets examples: Change user login anme and iLO host name and domain name
+# HPEiLOCmdlets examples: Change user login name and iLO host name and domain name
 
 
 ## Notes
    * Access iLO from OneView
-   * Works only for iLO5 with Authentcation token key. 
+   * Works only for **iLO5 with Authentcation token key**. 
 
 
 ## How to get Support
